@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class TrabalhoPraticoI {
+public class IMBARRA {
 
 	public static void main(String[] args) throws IOException {
 	menu();
