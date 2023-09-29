@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class IMBARRA {
+public class TraalhotPraticoI {
 
 	public static void main(String[] args) throws IOException {
 	menu();
